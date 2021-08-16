@@ -1,0 +1,55 @@
+.h1{
+    color: #5C5552;
+}
+
+.circle-img{
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+}
+
+.container2{
+    background-color: #F7F0F5;
+}
+
+h4{
+    font-stretch: expanded;
+    color: #157145;
+}
+
+.project1{
+    width: 400px;
+    border-radius: 8px;
+}
+
+.content{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.quotes{
+    color: grey;
+}
+
+.social-media {
+    font-size: 30px !important;
+    color: grey;
+}
+
+.footer{
+    border-top: 1px solid grey;
+}
+
+.card-title{
+    color: #5C5552 !important;
+}
+
+.badge{
+    border-radius: 20px;
+}
